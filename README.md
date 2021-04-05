@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there <a href="https://emoji.gg/emoji/sharingan"><img src="https://emoji.gg/assets/emoji/sharingan.png" width="22px" height="22px" alt="sharingan"></a>
 
-<!--
-**kevkanae/kevkanae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ReactJS Projects
+------------
+- Nasa APOD
+- NewsX
 
-Here are some ideas to get you started:
+### MERN Stack Projects
+------------
+- CRUD App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### NodeJS Projects
+------------
+- Pharmacopoiea (using MySQL)
+
+### Flutter Projects
+------------
+- Pocket Docker (using SSH)
+- Compendium
+- Pocket Linux (using Firebase)
+- Neuomorphic Calculator
+- Music App
+- JSON Placeholder with Authentication (using Firebase)
