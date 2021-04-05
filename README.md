@@ -1,4 +1,4 @@
-### Hi there <a href="https://emoji.gg/emoji/sharingan"><img src="https://emoji.gg/assets/emoji/sharingan.png" width="22px" height="22px" alt="sharingan"></a>
+### Hi there 👋
 
 ### ReactJS Projects
 ------------
