@@ -4,7 +4,7 @@
 - [Krypto](https://github.com/kevkanae/krypto)
 
 ### MERN Stack Projects
-- [CRUD App] (https://github.com/kevkanae/crud-mern-stack)
+- [CRUD App](https://github.com/kevkanae/crud-mern-stack)
 
 ### NodeJS Projects
 - [Pharmacopoiea (using MySQL)](https://github.com/kevkanae/Pharmacopoeia)
