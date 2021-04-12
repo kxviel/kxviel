@@ -16,3 +16,9 @@
 - [Neuomorphic Calculator](https://github.com/kevkanae/Flutter-Calculator)
 - [Music App](https://github.com/kevkanae/music_app)
 - [JSON Placeholder with Authentication (using Firebase)](https://github.com/kevkanae/flutter-JSON-Firebase)
+
+### MLOPs + Misc
+- [Face Recognition using Streamlit](https://github.com/kevkanae/Streamlit-Face-Recognition)
+- [Transfer Learning and Image Classification](https://github.com/kevkanae/Transfer-Learning-Image-Classification)
+- [Docker & Jenkins Integration](https://github.com/kevkanae/Docker-Jenkins-for-CI-CD)
+- [MLOPs with Machine Learning(CNN)](https://github.com/kevkanae/MLOps-ML-CNN-with-Docker-and-DevOps-)
