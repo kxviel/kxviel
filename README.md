@@ -2,6 +2,7 @@
 - [Nasa APOD](https://github.com/kevkanae/nasa-apod-ReactJS)
 - [NewsX](https://github.com/kevkanae/newsX-reactJS)
 - [Krypto](https://github.com/kevkanae/krypto)
+- [MyAnimeList Clone](https://github.com/kevkanae/MyAnimeList-Clone)
 
 ### MERN Stack Projects
 - [CRUD App](https://github.com/kevkanae/crud-mern-stack)
