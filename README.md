@@ -2,7 +2,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevkanae&layout=compact)](https://github.com/madannaik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevkanae&theme=buefy&layout=compact)](https://github.com/madannaik/github-readme-stats)
 
 
 ### ReactJS Projects
