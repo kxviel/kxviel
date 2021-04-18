@@ -1,4 +1,4 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kevkanae&show_icons=true&theme=dracula)](https://github.com/madannaik/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kevkanae&show_icons=true&theme=buefy)](https://github.com/madannaik/github-readme-stats)
 
 
 
