@@ -17,4 +17,4 @@ I'm currently on the path to wrap my fingers around the advanced concepts of Rea
 |                                                                     |  [JSON Placeholder with Firebase Auth](https://github.com/kevkanae/flutter-JSON-Firebase)|                                                                                                                   |   |
 
 ## Repo Stats
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevkanae&theme=buefy&layout=compact)](https://github.com/kevkanae/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevkanae&theme=buefy&layout=compact)](https://github.com/kevkanae/github-readme-stats)
