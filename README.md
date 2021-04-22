@@ -4,7 +4,7 @@ I'm a React.js and Flutter Developer though I'm currently focusing on React.js a
 I'm currently on the path to wrap my fingers around the advanced concepts of React.js and improve my problem solving in C++
 
 ## Contact
-[Email](kevdanngovead@gmail.com) -|- [LinkedIn](https://www.linkedin.com/in/kevkanae/)
+[ 📧 Email](kevdanngovead@gmail.com) | [ LinkedIn](https://www.linkedin.com/in/kevkanae/)
 
 ## Projects
 | ReactJS                                                             | Flutter                                                                                  | MLOPs                                                                                                             | NodeJS + MERN Stack |
