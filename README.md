@@ -1,9 +1,9 @@
-#### About Me 🧑
+## About Me 🧑
 Hey there, I'm a third year Computer Science Engineering student
 I'm a React.js and Flutter Developer though I'm currently focusing on React.js and MERN Stack.
 I'm currently on the path to wrap my fingers around the advanced concepts of React.js and improve my problem solving in C++
 
-#### Contact
+## Contact
 [Email](kevdanngovead@gmail.com) -|- [LinkedIn](https://www.linkedin.com/in/kevkanae/)
 
 ## Projects
