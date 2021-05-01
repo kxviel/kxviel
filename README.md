@@ -1,4 +1,4 @@
-## About Me 🧑
+## About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 Hey there, I'm a third year Computer Science Engineering student
 I'm a React.js and Flutter Developer though I'm currently focusing on React.js and MERN Stack.
 I'm currently on the path to wrap my fingers around the advanced concepts of React.js and improve my problem solving in C++
@@ -18,3 +18,10 @@ I'm currently on the path to wrap my fingers around the advanced concepts of Rea
 
 ## Repo Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevkanae&theme=buefy&layout=compact)](https://github.com/kevkanae/github-readme-stats)
+
+<p align="center"> 
+   <u> | Profile visits | </u>
+</p>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/nagarajankola/count.svg" alt="Visitor Count" align="center" />
+</p>
