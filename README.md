@@ -9,7 +9,7 @@ I'm currently on the path to wrap my fingers around the advanced concepts of Rea
 ## Projects
 | React.js                                                            | Next.js | Flutter                                                                                  | Node.js / MERN Stack |
 | :-----------------------------------------------------------------:| :---: |:----------------------------------------------------------------------------------------:|:-------:|
-| [Nasa APOD](https://github.com/kevkanae/nasa-apod-ReactJS)         | [My Portfolio](https://github.com/kevkanae/my-portfolio) | [Pocket Docker (using SSH)](https://github.com/kevkanae/pocket_docker)                   | [Pharmacopoiea (using MySQL)](https://github.com/kevkanae/Pharmacopoeia) |
+| [Nasa APOD](https://github.com/kevkanae/nasa-apod-ReactJS)         | [My Portfolio](https://github.com/kevkanae/kanae-portfolio) | [Pocket Docker (using SSH)](https://github.com/kevkanae/pocket_docker)                   | [Pharmacopoiea (using MySQL)](https://github.com/kevkanae/Pharmacopoeia) |
 | [AnimeX](https://github.com/kevkanae/Anime-List)                   | | [Compendium](https://github.com/kevkanae/Compendium)                                     | [My To-Do List](https://github.com/kevkanae/crud-mern-stack) |
 | [Calculator](https://kevkanae.github.io/Calci-ReactJS/)           | | [Pocket Linux (using Firebase)](https://github.com/kevkanae/Terminal_App)                | [Employee Leave Manager](https://github.com/kevkanae/Employee-Leave-Manager) |
 | [Krypto](https://github.com/kevkanae/krypto)                       | | [Neuomorphic Calculator](https://github.com/kevkanae/Flutter-Calculator)                 | 
