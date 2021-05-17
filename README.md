@@ -1,7 +1,7 @@
 ## About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-Hey there, I'm a third year Computer Science Engineering student
-I'm a React.js and Flutter Developer though I'm currently focusing on React.js and MERN Stack.
-I'm currently on the path to wrap my fingers around the advanced concepts of React.js and improve my problem solving in C++
+Hey,
+I'm a React.js and Flutter Developer.
+I'm currently on the path to wrap my fingers around the advanced concepts of React.js and improve my problem solving in C++ and oh, [Next.js](https://nextjs.org/) is lit
 
 ## Contact
 <a href="mailto:kevdanngovead@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/kevkanae"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
