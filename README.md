@@ -10,6 +10,7 @@ My Personel Website : [Kanae](https://kanae-portfolio.vercel.app/)
 ### Next.js
 - [My Portfolio](https://github.com/kevkanae/kanae-portfolio)
 - [Research Blog](https://github.com/kevkanae/BloggerWeb)
+- [Chat App](https://github.com/kevkanae/chat-app-cynefin-nextjs)
 
 ### MERN
 - [My To-Do List](https://github.com/kevkanae/crud-mern-stack)
