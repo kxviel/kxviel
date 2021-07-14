@@ -7,12 +7,10 @@ My Personal Website : [Kanae](https://kanae-portfolio.vercel.app/)
 <a href="mailto:kevdanngovead@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/kevkanae"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 ## Quick Project Links
-### Next.js
+### Next.js / MERN
 - [My Portfolio](https://github.com/kevkanae/kanae-portfolio)
 - [Research Blog](https://github.com/kevkanae/BloggerWeb)
 - [Chat App](https://github.com/kevkanae/chat-app-cynefin-nextjs)
-
-### MERN
 - [My To-Do List](https://github.com/kevkanae/crud-mern-stack)
 - [Employee Leave Manager](https://github.com/kevkanae/Employee-Leave-Manager)
 - [CSV Uploader](https://github.com/kevkanae/csv-upload)
