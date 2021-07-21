@@ -6,6 +6,8 @@ My Personal Website : [Kanae](https://kanae-portfolio.vercel.app/)
 ## Contact
 <a href="mailto:kevdanngovead@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/kevkanae"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevkanae)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Quick Project Links
 ### Next.js / MERN
 - [My Portfolio](https://github.com/kevkanae/kanae-portfolio)
