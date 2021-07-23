@@ -20,7 +20,6 @@ My Personal Website : [Kanae](https://kanae-portfolio.vercel.app/)
 ### React.js
 - [Nasa APOD](https://github.com/kevkanae/nasa-apod-ReactJS)  
 - [AnimeX](https://github.com/kevkanae/Anime-List)
-- [Calculator](https://kevkanae.github.io/Calci-ReactJS/)
 - [Krypto](https://github.com/kevkanae/krypto)
 
 ### Node.js, Express & MySQL
