@@ -12,7 +12,7 @@ My Personal Website : [Kanae](https://kanae-portfolio.vercel.app/)
 ### Next.js / MERN
 - [My Portfolio](https://github.com/kevkanae/kanae-portfolio)
 - [Research Blog](https://github.com/kevkanae/BloggerWeb)
-- [Chat App](https://github.com/kevkanae/chat-app-cynefin-nextjs)
+- [Chat App](https://github.com/kevkanae/Chat-App)
 - [My To-Do List](https://github.com/kevkanae/crud-mern-stack)
 - [Employee Leave Manager](https://github.com/kevkanae/Employee-Leave-Manager)
 - [CSV Uploader](https://github.com/kevkanae/csv-upload)
