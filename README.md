@@ -17,7 +17,6 @@ My Personal Website: [Kanae](https://kanae-portfolio.vercel.app/)
 - [AnimeX](https://github.com/kevkanae/Anime-List)
 - [Krypto](https://github.com/kevkanae/krypto)
 - [Research Blog](https://github.com/kevkanae/BloggerWeb)
-- [My To-Do List](https://github.com/kevkanae/crud-mern-stack)
 - [Employee Leave Manager](https://github.com/kevkanae/Employee-Leave-Manager)
 - [CSV Uploader](https://github.com/kevkanae/csv-upload)
 
