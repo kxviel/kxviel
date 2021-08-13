@@ -1,7 +1,8 @@
 ## About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 Hey, I'm Kevin Daniel Goveas, <br/>
-I'm a React.js (MERN Stack) and Flutter Developer. <br/>
-My Personal Website : [Kanae](https://kanae-portfolio.vercel.app/) 
+I'm a Frontend Developer (React.js)<br/>
+Typescript == 💕<br/>
+My Personal Website: [Kanae](https://kanae-portfolio.vercel.app/) 
 
 ## Contact
 <a href="mailto:kevdanngovead@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/kevkanae"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -9,18 +10,16 @@ My Personal Website : [Kanae](https://kanae-portfolio.vercel.app/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevkanae)
 
 ## Quick Project Links
-### Next.js / MERN
-- [My Portfolio](https://github.com/kevkanae/kanae-portfolio)
-- [Research Blog](https://github.com/kevkanae/BloggerWeb)
+### Next.js / React.js / MERN
 - [Chat App](https://github.com/kevkanae/Chat-App)
-- [My To-Do List](https://github.com/kevkanae/crud-mern-stack)
-- [Employee Leave Manager](https://github.com/kevkanae/Employee-Leave-Manager)
-- [CSV Uploader](https://github.com/kevkanae/csv-upload)
-
-### React.js
+- [My Portfolio](https://github.com/kevkanae/kanae-portfolio)
 - [Nasa APOD](https://github.com/kevkanae/nasa-apod-ReactJS)  
 - [AnimeX](https://github.com/kevkanae/Anime-List)
 - [Krypto](https://github.com/kevkanae/krypto)
+- [Research Blog](https://github.com/kevkanae/BloggerWeb)
+- [My To-Do List](https://github.com/kevkanae/crud-mern-stack)
+- [Employee Leave Manager](https://github.com/kevkanae/Employee-Leave-Manager)
+- [CSV Uploader](https://github.com/kevkanae/csv-upload)
 
 ### Node.js, Express & MySQL
 - [Pharmacopoiea (using MySQL)](https://github.com/kevkanae/Pharmacopoeia)
