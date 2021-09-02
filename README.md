@@ -1,11 +1,8 @@
 ## About Me <img src="https://media.giphy.com/media/26Ff7B0NIgs0Td2sE/giphy.gif" height="49" width="70">
-Hey, I'm Kevin Daniel Goveas, <br/>
-I'm a self taught Web Developer (a pretty good one :P )<br/>
-My Personal Website: [Kanae](https://kanae-portfolio.vercel.app/) 
+Hey, I'm Kevin D Goveas, a self taught Web Developer -- [Portfolio](https://kanae-portfolio.vercel.app/) 
 
 ## Contact
-<a href="mailto:kevdanngovead@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/kevkanae"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-
+<a href="mailto:kevdanngovead@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br/><a href="https://www.linkedin.com/in/kevkanae"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevkanae)
 
 ## Quick Project Links
