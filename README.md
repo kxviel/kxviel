@@ -1,4 +1,4 @@
-## About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## About Me <img src="https://media.giphy.com/media/26Ff7B0NIgs0Td2sE/giphy.gif" height="49" width="70">
 Hey, I'm Kevin Daniel Goveas, <br/>
 I'm a Frontend Developer (React.js)<br/>
 My Personal Website: [Kanae](https://kanae-portfolio.vercel.app/) 
