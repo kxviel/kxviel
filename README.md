@@ -9,7 +9,6 @@ Hey, I'm Kevin D Goveas, a self taught Web Developer -- [Portfolio](https://kana
 ### Next.js / React.js / MERN
 - [Chat App | Cynefin](https://github.com/kevkanae/Chat-App)
 - [Weather App | Havo](https://github.com/kevkanae/havo-weather-app)
-- [Anzen Pay](https://github.com/kevkanae/anzen-pay)
 - [Payment UI | Anzen-Pay](https://github.com/kevkanae/anzen-pay)
 - [My Portfolio](https://github.com/kevkanae/kanae-portfolio)
 - [Nasa APOD](https://github.com/kevkanae/nasa-apod-ReactJS)  
