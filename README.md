@@ -2,17 +2,21 @@
    About Me ( ͡° ͜ʖ ͡°)
 </h3>
 
-Hey, I'm Kevin D Goveas, a Frontend Developer. I work with Typescript, SCSS and Javascript frameworks like React.js, Next.js, Node.js, Redux, etc.
-You can have a look through my [Portfolio](https://kanae-portfolio.vercel.app/) 
+Hey 👋, I'm **Kevin D Goveas**, a Frontend Developer 🧑‍💻. I work with Typescript, SCSS and Javascript frameworks like React.js, Next.js, Node.js, Redux, etc.
+You can have a look through my **[Portfolio](https://kanae-portfolio.vercel.app/)** ✨
 
-### Top Projects
+---
 
-- [Chat App | Cynefin](https://github.com/kevkanae/Chat-App)
+### Top Projects ㄟ( ▔ 3 ▔ )ㄏ
+
+- [Chat App | Cynefin](https://github.com/kevkanae/Chat-App) 
 - [Weather App | Havo](https://github.com/kevkanae/havo-weather-app)
 - [Research Blog](https://github.com/kevkanae/BloggerWeb)
 - [Payment UI | Anzen-Pay](https://github.com/kevkanae/anzen-pay)
 - [Pocket Docker (using SSH)](https://github.com/kevkanae/pocket_docker)
 - [Neuomorphic Calculator](https://github.com/kevkanae/Flutter-Calculator)
+
+---
 
 ### Contact Me
 
