@@ -1,6 +1,7 @@
 <h3 align="center">
    About Me ( ͡° ͜ʖ ͡°)
 </h3>
+
 Hey, I'm Kevin D Goveas, a Frontend Developer. I work with Typescript, SCSS and Javascript frameworks like React.js, Next.js, Node.js, Redux, etc.
 You can have a look through my [Portfolio](https://kanae-portfolio.vercel.app/) 
 
