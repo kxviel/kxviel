@@ -22,7 +22,7 @@ You can have a look through my **[Portfolio](https://kanae-portfolio.vercel.app/
 
 - <a href="mailto:kevdanngovead@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 - <a href="https://www.linkedin.com/in/kevkanae"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
+- <a href="https://twitter.com/kevkanae"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevkanae&layout=compact&hide=html" alt="Top Languages"  width="500" height="200" />
 </p>
