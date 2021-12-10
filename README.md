@@ -10,6 +10,7 @@ You can have a look through my **[Portfolio](https://kanae-portfolio.vercel.app/
 ### Top Projects ㄟ( ▔ 3 ▔ )ㄏ
 
 - [Chat App | Cynefin](https://github.com/kevkanae/Chat-App) 
+- [E-Commerce](https://github.com/kevkanae/E-Commerce)
 - [Weather App | Havo](https://github.com/kevkanae/havo-weather-app)
 - [Research Blog](https://github.com/kevkanae/BloggerWeb)
 - [Payment UI | Anzen-Pay](https://github.com/kevkanae/anzen-pay)
