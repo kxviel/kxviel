@@ -2,20 +2,22 @@
    About Me ( ͡° ͜ʖ ͡°)
 </h3>
 
-Hey 👋, I'm **Kevin D Goveas**, a Frontend Developer 🧑‍💻.I have a keen eye on UI/UX & efficiency and love learning new frameworks & languages. I work with *Typescript*, *SCSS* and *Javascript* frameworks like *React.js*, *Next.js*, *Node.js*, *Redux*, etc.
+Hey 👋, I'm **Kevin D Goveas**, a Frontend Developer 🧑‍💻.I have a keen eye on UI/UX & efficiency and love learning new frameworks & languages. I work with *Golang*, *Typescript*, *SCSS* and *Javascript* frameworks like *React*, *Next*, *Node*, *Redux*, etc.
 You can have a look through my **[Portfolio](https://kanae-portfolio.vercel.app/)** ✨
 
 ---
 
 ### Top Projects ㄟ( ▔ 3 ▔ )ㄏ
 
-- [Chat App | Cynefin](https://github.com/kevkanae/Chat-App) 
-- [E-Commerce](https://github.com/kevkanae/E-Commerce)
-- [Weather App | Havo](https://github.com/kevkanae/havo-weather-app)
-- [Research Blog](https://github.com/kevkanae/BloggerWeb)
-- [Payment UI | Anzen-Pay](https://github.com/kevkanae/anzen-pay)
-- [Pocket Docker (using SSH)](https://github.com/kevkanae/pocket_docker)
-- [Neuomorphic Calculator](https://github.com/kevkanae/Flutter-Calculator)
+| Project | Stack |
+| ------------------------------------------------------------------------ | ---------------------------------- |
+| [E-Commerce](https://github.com/kevkanae/E-Commerce)                     | Golang, Next.js, Redux-Toolkit, TS |
+| [Chat App - Cynefin](https://github.com/kevkanae/Chat-App)               | Firebase, Next.js, ChakraUI, TS    |
+| [Weather App - Havo](https://github.com/kevkanae/havo-weather-app)       | SCSS, Next.js, TS                  |
+| [Research Blog](https://github.com/kevkanae/BloggerWeb)                  | Next.js, Next-API, MongoDB, TS     |
+| [Payment UI - AnzenPay](https://github.com/kevkanae/anzen-pay)           | SCSS, Next.js                      |
+| [Pocket Docker (using SSH)](https://github.com/kevkanae/pocket_docker)   | Flutter, Docker, SSH               |
+| [Neuomorphic Calculator](https://github.com/kevkanae/Flutter-Calculator) | Flutter, Neuomorphism              |
 
 ---
 
