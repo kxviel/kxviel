@@ -12,9 +12,9 @@ You can have a look through my **[Portfolio](https://kanae-portfolio.vercel.app/
 | Project | Stack |
 | ------------------------------------------------------------------------ | ---------------------------------- |
 | [E-Commerce](https://github.com/kevkanae/E-Commerce)                     | Golang, Next.js, Redux-Toolkit, TS |
-| [Chat App - Cynefin](https://github.com/kevkanae/Chat-App)               | Firebase, Next.js, ChakraUI, TS    |
+| [Chat App - Cynefin](https://github.com/kevkanae/Chat-App)               | Firebase, Next.js, TS              |
 | [Weather App - Havo](https://github.com/kevkanae/havo-weather-app)       | SCSS, Next.js, TS                  |
-| [Research Blog](https://github.com/kevkanae/BloggerWeb)                  | Next.js, Next-API, MongoDB, TS     |
+| [Research Blog](https://github.com/kevkanae/BloggerWeb)                  | Next.js, MongoDB, TS               |
 | [Payment UI - AnzenPay](https://github.com/kevkanae/anzen-pay)           | SCSS, Next.js                      |
 | [Pocket Docker (using SSH)](https://github.com/kevkanae/pocket_docker)   | Flutter, Docker, SSH               |
 | [Neuomorphic Calculator](https://github.com/kevkanae/Flutter-Calculator) | Flutter, Neuomorphism              |
