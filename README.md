@@ -11,7 +11,7 @@ You can have a look through my **[Portfolio](https://kanae-portfolio.vercel.app/
 
 | Project | Stack |
 | ------------------------------------------------------------------------ | ---------------------------------- |
-| [E-Commerce](https://github.com/kevkanae/E-Commerce)                     | Golang, Next.js, Redux-Toolkit, TS |
+| [E-Commerce - XKart](https://github.com/kevkanae/ecommerce-XKart)        | Golang, Next.js, Redux-Toolkit, TS |
 | [Chat App - Cynefin](https://github.com/kevkanae/Chat-App)               | Firebase, Next.js, TS              |
 | [Weather App - Havo](https://github.com/kevkanae/havo-weather-app)       | SCSS, Next.js, TS                  |
 | [Research Blog](https://github.com/kevkanae/BloggerWeb)                  | Next.js, MongoDB, TS               |
