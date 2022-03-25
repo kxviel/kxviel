@@ -7,7 +7,7 @@ You can have a look through my **[Portfolio](https://kanae-portfolio.vercel.app/
 
 ---
 
-### Top Projects ㄟ( ▔ 3 ▔ )ㄏ
+### Top Projects ( •̀ .̫ •́ )✧
 
 | Project | Stack |
 | ---------------------------------------------------------------------------- | ---------------------------------- |
