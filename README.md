@@ -3,7 +3,7 @@
 </h3>
 
 #### Hey 👋, I'm **Kevin D Goveas**, a Fullstack Developer 🧑‍💻.I have a keen eye on UI/UX & efficiency and love learning new frameworks & languages. I work with *React*, *Typescript*, *SCSS* and *Javascript* frameworks like *Next.js*, *Node.js*, *Redux*, etc.
-You can have a look through my **[Portfolio](https://kanae-portfolio.vercel.app/)** ✨
+You can have a look through my **[Portfolio](https://kanae-portfolio.vercel.app/)** and my **[Resume](https://drive.google.com/file/d/1IucZetZ58hO54zexVz7I57DqboWJrJMh/view?usp=sharing)** ✨
 
 ---
 
