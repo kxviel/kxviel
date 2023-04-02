@@ -9,6 +9,8 @@ You can have a look through my **[Portfolio](https://kanae-portfolio.vercel.app/
 </p>
 
 ---
+  
+### Currently Working on: [Budget | Okane](https://github.com/kevkanae/budget#readme)
 
 ### Top Projects ( •̀ .̫ •́ )✧
 
