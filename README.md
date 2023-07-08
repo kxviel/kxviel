@@ -1,12 +1,12 @@
 ## ;)
 
 #### Hey 👋, I'm **Kevin D Goveas**, a Fullstack Developer 🧑‍💻.I have a keen eye on UI/UX & efficiency and love learning new frameworks & languages. I work with *React*, *Typescript*, *SCSS* and *Javascript* frameworks like *Next.js*, *Node.js*, *Redux*, etc.
-You can have a look through my **[Portfolio](https://kanae-portfolio.vercel.app/)** and my **[Resume](https://docs.google.com/document/d/1yGjLojQlnz61RbOXD_LFLyJrtLSgd_Qw/edit?usp=sharing&ouid=102128825696828127314&rtpof=true&sd=true)** ✨
+You can have a look through my **[Portfolio](https://portfolio-kevkanae.vercel.app/)** and my **[Resume](https://drive.google.com/file/d/1yFdK2vmsHwZLGQXYmPz25pWjLWa3SYZN/view?usp=sharing")** ✨
 
 ---
 
 <p>
-  <a href="mailto:kevdanngovead@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:kevkanae777@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kevkanae"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /</a>
 </p>
 
