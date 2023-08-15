@@ -30,7 +30,5 @@ You can have a look through my **[Portfolio](https://portfolio-kevkanae.vercel.a
 
 ---
 ### 📈 Github Stats 
-
-![Kevin's Stats](https://github-readme-stats.vercel.app/api?username=kevkanae&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=radical)
 ![Kevin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevkanae&layout=compact&hide=php&hide_border=true&theme=radical)
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kevkanae.kevkanae&style=flat-square&color=0088cc)
+
