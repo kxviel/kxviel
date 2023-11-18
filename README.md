@@ -13,7 +13,11 @@ You can have a look through my **[Portfolio](https://portfolio-kevkanae.vercel.a
 ---
   
 ### Currently Working on: [Budget | Okane](https://github.com/kevkanae/budget#readme)
-  
+
+### To-Do:
+[] - Alora | A Planner for People who want complete control
+[] - XCollab | Realtime Collaborator with Whiteboards & Kanban 
+[] - CodeMap | Golang based tsx file mapper using AI
 ---
 
 ### Top Projects ( •̀ .̫ •́ )✧
