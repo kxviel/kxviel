@@ -16,6 +16,7 @@ You can have a look through my **[Portfolio](https://portfolio-kevkanae.vercel.a
 
 ### To-Do:
 - [ ]  Alora | A Planner for People who want complete control
+- [ ]  Complex Form Builder using Svelte
 - [ ]  XCollab | Realtime Collaborator with Whiteboards & Kanban 
 - [ ]  CodeMap | Golang based tsx file mapper using AI
 - [ ]  WASM
