@@ -34,7 +34,4 @@ You can have a look through my **[Portfolio](https://portfolio-kevkanae.vercel.a
 | [Weather App - Havo](https://github.com/kevkanae/havo-weather-app)           | SCSS, Next.js, TS                  |
 | [Research Blog](https://github.com/kevkanae/BloggerWeb)                      | Next.js, MongoDB, TS               |
 
----
-### 📈 Github Stats 
-![Kevin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevkanae&layout=compact&hide=php&hide_border=true&theme=radical)
 
