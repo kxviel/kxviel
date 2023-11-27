@@ -1,6 +1,6 @@
 ## ;)
 
-#### Hey 👋, I'm **Kevin D Goveas**, a Fullstack Developer 🧑‍💻.I have a keen eye on UI/UX & efficiency and love learning new frameworks & languages. I work with *React*, *Typescript*, *SCSS* and *Javascript* frameworks like *Next.js*, *Node.js*, *Redux*, etc.
+#### Hey 👋, I'm **Kevin D Goveas**, a Fullstack Developer 🧑‍💻. I have a keen eye on UI/UX & efficiency and love learning new frameworks & languages. I work with *React*, *Typescript*, *SCSS* and *Javascript* frameworks like *Next.js*, *Node.js*, *Redux*, etc.
 You can have a look through my **[Portfolio](https://portfolio-kevkanae.vercel.app/)** and my **[Resume](https://drive.google.com/file/d/1yFdK2vmsHwZLGQXYmPz25pWjLWa3SYZN/view?usp=sharing")** ✨
 
 ---
@@ -18,6 +18,7 @@ You can have a look through my **[Portfolio](https://portfolio-kevkanae.vercel.a
 - [ ]  Alora | A Planner for People who want complete control
 - [ ]  XCollab | Realtime Collaborator with Whiteboards & Kanban 
 - [ ]  CodeMap | Golang based tsx file mapper using AI
+- [ ]  WASM
 ---
 
 ### Top Projects ( •̀ .̫ •́ )✧
