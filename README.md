@@ -15,11 +15,10 @@ You can have a look through my **[Portfolio](https://portfolio-kevkanae.vercel.a
 ### Currently Working on: [Budget | Okane](https://github.com/kevkanae/budget#readme)
 
 ### To-Do:
+- [ ]  Encryption GUI in Rust
 - [ ]  Alora | A Planner for People who want complete control
-- [ ]  Complex Form Builder using Svelte
-- [ ]  XCollab | Realtime Collaborator with Whiteboards & Kanban 
+- [ ]  Complex Form Builder GUI in Rust
 - [ ]  CodeMap | Golang based tsx file mapper using AI
-- [ ]  WASM
 ---
 
 ### Top Projects ( •̀ .̫ •́ )✧
