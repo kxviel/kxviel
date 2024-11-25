@@ -15,12 +15,11 @@ You can have a look through my **[Portfolio](https://portfolio-kevkanae.vercel.a
 ### Currently Working on: [Budget | Okane](https://github.com/kevkanae/budget#readme)
 
 ### To-Do:
-- [ ]  EMail Client (UI)
-- [ ]  Rot-UI (reusable custom components)
-- [ ]  Encryption GUI in Rust
+- [ ]  Encryption TUI in Rust
+- [ ]  Simple Rust based Compiler
 - [ ]  Alora | A Planner for People who want complete control
-- [ ]  Complex Form Builder GUI in Rust
-- [ ]  CodeMap | Golang based tsx file mapper using AI
+- [ ]  Complex Form Builder
+- [ ]  Rot-UI (reusable custom components)
 ---
 
 ### Top Projects ( •̀ .̫ •́ )✧
