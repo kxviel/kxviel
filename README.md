@@ -15,11 +15,10 @@ You can have a look through my **[Portfolio](https://portfolio-kevkanae.vercel.a
 ### Currently Working on: [Budget | Okane](https://github.com/kevkanae/budget#readme)
 
 ### To-Do:
-- [ ]  Encryption TUI in Rust
+- [ ]  Alora | Rust Desktop App for tv/anime/movie DB
 - [ ]  Simple Rust based Compiler
-- [ ]  Alora | A Planner for People who want complete control
-- [ ]  Complex Form Builder
-- [ ]  Rot-UI (reusable custom components)
+- [ ]  Bulk Image Metadata editor | Rust
+- [ ]  Clinical Trials & Survey Platform
 ---
 
 ### Top Projects ( •̀ .̫ •́ )✧
