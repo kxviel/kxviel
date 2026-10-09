@@ -22,11 +22,15 @@
 
 ### `$ whoami`
 
-- A self-proclaimed senior developer, AI slave-driver and Computer Science master's student at RPTU, currently working as a Student Research Assistant at DFKI.
+I'm Kevin — a self-proclaimed senior developer, AI slave-driver, and Computer Science master's student at RPTU, Germany. Currently working as a Student Research Assistant at DFKI.
 
-- I enjoy building things from scratch, making things unnecessarily efficient and complicate them for absolutely no reason, and having fun writing code.
+I enjoy building [projects](https://kxviel-portfolio.vercel.app/projects) from scratch, making things unnecessarily efficient, and then complicating them for absolutely no reason.
 
-- Somewhere between web applications, scientific datasets, desktop tools, and systems programming is where you'll usually find me. Yeah I know, too much :(
+I write code for fun, start side projects when I probably shouldn't, and occasionally finish them.
+
+Currently beating **Elden Ring** for the third time.
+
+<img src="https://38.media.tumblr.com/91443038f613837fc74f2bc5d3ae0169/tumblr_nf3wrpiWoL1u31ghoo4_75sq.gif" width="45" alt="Elden Ring mood" />
 
 ### `$ ls ~/projects`
 
