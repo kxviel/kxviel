@@ -1,15 +1,5 @@
 # Kevin Daniel Goveas
 
-```text
-+--------------------------------------------------------+
-|  kxviel                                                |
-|                                                        |
-|  Full-Stack Development / AI / Data Systems            |
-|  Building things, learning things, occasionally        |
-|  wondering why things work.                            |
-+--------------------------------------------------------+
-```
-
 <p align="left">
   <a href="https://github.com/kxviel">
     <img src="https://komarev.com/ghpvc/?username=kxviel&style=flat&color=blue" alt="Profile views" />
